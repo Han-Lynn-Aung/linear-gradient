@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build-test": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Han-Lynn-Aung/linear-gradient-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Han-Lynn-Aung/linear-gradient-generator/issues"
+  },
+  "homepage": "https://github.com/Han-Lynn-Aung/linear-gradient-generator#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
